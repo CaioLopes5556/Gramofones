@@ -1,7 +1,8 @@
 # Gramofones 👨‍🎤
 
-- Esse projeto te leva numa jornada musical incrível! Com apenas alguns cliques, 
+- Esse projeto te leva numa jornada musical incrível! Com apenas alguns cliques,
 - você pode encontrar artistas conhecidos e explorar diversas informações sobre suas carreiras.
+- Foi feito durante a #imersaodev com Gemini da Alura, inspirado no projeto desenvolvido nesta imersao. 
 
 - [Vizualize o projeto aqui!](https://caiolopes5556.github.io/Gramofones/)
 
