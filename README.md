@@ -3,7 +3,7 @@
 - Esse projeto te leva numa jornada musical incrível! Com apenas alguns cliques, 
 - você pode encontrar artistas conhecidos e explorar diversas informações sobre suas carreiras.
 
-- [Vizualize o projeto aqui!](https://www.exemplo.com)
+- [Vizualize o projeto aqui!](https://caiolopes5556.github.io/Gramofones/)
 
 ## O que você pode fazer?
 
